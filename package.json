@@ -1,0 +1,10 @@
+{
+  "name": "jack",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "sonus": "^1.0.3"
+  }
+}
